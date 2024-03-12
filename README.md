@@ -1,4 +1,4 @@
-# Pygame_templet
+# SquareEscape
 
 This Python platformer game features a player character, navigating across the screen while avoiding falling off platforms. The player can move horizontally using arrow keys or jump by pressing the spacebar. The game mechanics include basic movement controls and a gravity system, allowing realistic jumping and falling. This project showcases platformer game mechanics using the Pygame library.
 
