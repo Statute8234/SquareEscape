@@ -19,8 +19,6 @@ The Python platformer game features a player-controlled character, represented b
 
 # Imports
 
-List, Scanner
+pygame, sys, random
 
 # Rating
-
-The text highlights several issues and improvements in a software application. Inconsistencies in input handling, logic flaws, and inadequate error handling are identified. The editToEmployeeDataBase method stores revenue incorrectly in the employee name field. The user interface could be improved for clearer instructions and feedback. The code organization could be improved by splitting functionalities into smaller methods for better readability and maintainability. Despite these improvements, the application is rated 5/10 for its basic functionality but requires refinement for better usability and robustness.
